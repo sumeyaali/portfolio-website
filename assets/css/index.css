@@ -1,0 +1,12 @@
+#bg:after {
+    background-image: url("../../images/oregon.jpg");
+}
+
+#work .home-page {
+    width:100%;
+    margin-bottom: 5px;
+}
+
+#work p {
+    margin-bottom: 5px;
+}
