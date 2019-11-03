@@ -1,5 +1,5 @@
 #bg:after {
-    background-image: url("../../images/oregon.jpg");
+    background-image: url("../../images/background.jpg");
 }
 
 #work .home-page {
@@ -8,5 +8,5 @@
 }
 
 #work p {
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
